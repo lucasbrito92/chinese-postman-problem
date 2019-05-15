@@ -1,0 +1,9 @@
+n, m (number of vertices and number of edges)
+ei, c, c
+
+e = edge identification
+i = vertex of origin of the edge "e"
+j = edge destination vertex "and"
+c = cost of the edge "and"
+
+http://www.professeurs.polymtl.ca/michel.gagnon/Disciplinas/Bac/Grafos/EulerHam/euler_ham.html

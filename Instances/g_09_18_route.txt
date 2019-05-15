@@ -1,0 +1,20 @@
+Instance: g_09_18.txt
+Is already Eulerian? True
+Elapsed time: 0.000746965408325 seconds 
+Original edge weight sum: 288
+Total cost found: 288 Route cost: 288 Match cost: 0
+Sugested route: (0, 1) (1, 2) (2, 0) (0, 3) (3, 1) (1, 4) (4, 3) (3, 6) (6, 7) (7, 4) (4, 5) (5, 2) (2, 8) (8, 5) (5, 7) (7, 8) (8, 6) (6, 0)
+
+Instance: g_09_18.txt
+Is already Eulerian? True
+Elapsed time: 0.000564098358154 seconds 
+Original edge weight sum: 288
+Total cost found: 288 Route cost: 288 Match cost: 0
+Sugested route: (0, 1) (1, 2) (2, 0) (0, 3) (3, 1) (1, 4) (4, 3) (3, 6) (6, 7) (7, 4) (4, 5) (5, 2) (2, 8) (8, 5) (5, 7) (7, 8) (8, 6) (6, 0)
+
+Instance: g_09_18.txt
+Is already Eulerian? True
+Elapsed time: 0.0011031627655 seconds 
+Total cost found: 288 Route cost: 288 Match cost: 0
+Sugested route: (0, 1) (1, 2) (2, 0) (0, 3) (3, 1) (1, 4) (4, 3) (3, 6) (6, 7) (7, 4) (4, 5) (5, 2) (2, 8) (8, 5) (5, 7) (7, 8) (8, 6) (6, 0)
+
